@@ -1,0 +1,26 @@
+<annotation>
+	<folder>land</folder>
+	<filename>files5_339.jpg</filename>
+	<path>D:\Users\Taner\Desktop\Drone_Data_Combined\land\files5_339.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>land</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>270</ymin>
+			<xmax>371</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

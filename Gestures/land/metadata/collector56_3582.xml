@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unclassified</folder>
+	<filename>collector56_3582.jpg</filename>
+	<path>D:\Users\Taner\Desktop\Gestures\land\unclassified\collector56_3582.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>land</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>163</ymin>
+			<xmax>345</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>
