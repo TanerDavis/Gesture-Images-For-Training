@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unclassified</folder>
+	<filename>collect2_4603.jpg</filename>
+	<path>D:\Users\Taner\Desktop\Gestures\up\unclassified\collect2_4603.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>69</ymin>
+			<xmax>233</xmax>
+			<ymax>99</ymax>
+		</bndbox>
+	</object>
+</annotation>
