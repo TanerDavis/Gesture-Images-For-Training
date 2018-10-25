@@ -1,0 +1,26 @@
+<annotation>
+	<folder>peace</folder>
+	<filename>files5_771.jpg</filename>
+	<path>D:\Users\Taner\Desktop\Drone_Data_Combined\peace\files5_771.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>213</ymin>
+			<xmax>295</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

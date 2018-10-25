@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unclassified</folder>
+	<filename>outside1_1589.jpg</filename>
+	<path>D:\Users\Taner\Desktop\Gestures\peace\unclassified\outside1_1589.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>178</ymin>
+			<xmax>314</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>

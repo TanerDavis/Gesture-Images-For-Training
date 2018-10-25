@@ -1,0 +1,26 @@
+<annotation>
+	<folder>peace</folder>
+	<filename>files3_680.jpg</filename>
+	<path>D:\Users\Taner\Desktop\Drone_Data_Combined\peace\files3_680.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>164</ymin>
+			<xmax>293</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>
