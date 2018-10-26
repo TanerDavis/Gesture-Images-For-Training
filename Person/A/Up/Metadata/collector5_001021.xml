@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unclassified</folder>
+	<filename>collector5_001021.jpg</filename>
+	<path>D:\Users\Taner\Desktop\Gestures\up\unclassified\collector5_001021.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>226</ymin>
+			<xmax>325</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

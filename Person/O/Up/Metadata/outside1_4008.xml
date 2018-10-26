@@ -1,0 +1,26 @@
+<annotation>
+	<folder>unclassified</folder>
+	<filename>outside1_4008.jpg</filename>
+	<path>D:\Users\Taner\Desktop\Gestures\up\unclassified\outside1_4008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>up</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>142</ymin>
+			<xmax>326</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>
