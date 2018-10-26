@@ -1,0 +1,26 @@
+<annotation>
+	<folder>land</folder>
+	<filename>files3_577.jpg</filename>
+	<path>D:\Users\Taner\Desktop\Drone_Data_Combined\land\files3_577.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>land</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>232</ymin>
+			<xmax>300</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>land</folder>
+	<filename>large2_1952.jpg</filename>
+	<path>D:\Users\Taner\Desktop\Drone_Data_Combined\land\large2_1952.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>land</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>250</ymin>
+			<xmax>354</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>
