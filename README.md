@@ -1,5 +1,5 @@
 # Gesture-Images-For-Training (GIFT)
-Collection of images containing hand gestures for machine learning using PascalVOC XML metadata.
+Collection of images containing hand gestures for machine learning using PascalVOC XML metadata. [http://host.robots.ox.ac.uk/pascal/VOC/]
 
 # Currently Supported Gestures
 * Single finger pointed up
